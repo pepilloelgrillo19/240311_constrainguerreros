@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">240311_ConstrainGuerreros</string>
+    <string name="nombre">Tronak el Karbaro</string>
+    <string name="ocupacion">Guerrero deplorable</string>
+    <string name="ciudad">Karb</string>
+    <string name="fuerza">10 / 100</string>
+    <string name="armas">-100 / 1 </string>
+    <string name="strength">Fuerza</string>
+    <string name="victimas">Victimas</string>
+    <string name="num_victimas">Ni una mosca</string>
+    <string name="armas_t">Armas</string>
+    <string name="título">Sobre Tronak</string>
+    <string name="cuerpo">Hijo del gran Tarkatak, Tetrarka de Karb, no pudo ascender al trono debido al ataque de Tark, que lo esclavizaron e intentaron convertir en una máquina de matar, pero por sus actitudes, no consigue ni levantar la espada.</string>
+    <string name="background">240311_ConstrainGuerreros</string>
+
+
 </resources>
